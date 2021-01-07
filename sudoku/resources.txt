@@ -1,0 +1,11 @@
+// Took Index.html file from  (https://github.com/eklavyabhatia/sudoku-web-app)
+
+**********************************************************************
+
+
+Main part of That code is how we get different puzzle every time when we click on generate puzzle 
+Its Using Api  (https://sugoku.herokuapp.com/board?difficulty=easy)
+
+
+**********************************************************************
+
